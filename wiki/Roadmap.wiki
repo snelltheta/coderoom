@@ -10,5 +10,5 @@ Version 0.2 <br>
 
 Version 0.1<br>
 
-  * Customizable interface <br>
-  * Open / Save / Save As / New / Quit shortcuts <br>
+  * Customizable interface - Complete <br>
+  * Open / Save / Save As / New / Quit shortcuts - Complete <br>
