@@ -12,3 +12,4 @@ Version 0.1<br>
 
   * Customizable interface - Complete <br>
   * Open / Save / Save As / New / Quit shortcuts - Complete <br>
+  * Basic functionality - Complete <br>
