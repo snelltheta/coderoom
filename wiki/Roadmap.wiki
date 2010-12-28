@@ -1,0 +1,19 @@
+#summary CodeRoom roadmap
+
+= Introduction =
+
+Roadmap
+
+
+= Details =
+
+v0.2
+
+Syntax Highlighting
+Find + Replace
+Non-fullscreen options
+
+v0.1
+
+Customizable interface
+Open / Save / Save As / New / Quit shortcuts
