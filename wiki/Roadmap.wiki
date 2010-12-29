@@ -7,6 +7,8 @@ Version 0.2 <br>
   * Syntax Highlighting - Partially complete <br>
   * Find + Replace <br>
   * Non-fullscreen options <br>
+  * New configuration file <br>
+  * Ask if documents should be saved on quit <br>
 
 Version 0.1<br>
 
