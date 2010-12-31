@@ -3,6 +3,7 @@
 = Roadmap =
 
 Incomplete:
+  * Custom icon
   * Syntax highlighting files for different languages <br>
   * Find + Replace <br>
   * Non-fullscreen options <br>
