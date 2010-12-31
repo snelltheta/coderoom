@@ -9,8 +9,8 @@ Incomplete:
   * Non-fullscreen options <br>
   * New configuration file system (instead og Qt css) <br>
   * Ask if documents should be saved on quit <br>
-  * Auto-indentation <br>
 Complete:
+  * Auto-indentation <br>
   * Basic syntax highlighting - Complete <br>
   * Customizable interface - Complete <br>
   * Open / Save / Save As / New / Quit shortcuts - Complete <br>
