@@ -8,8 +8,8 @@ Incomplete:
   * Find + Replace <br>
   * Non-fullscreen options <br>
   * New configuration file system (instead og Qt css) <br>
-  * Ask if documents should be saved on quit <br>
 Complete:
+  * Ask if documents should be saved on quit <br>
   * Auto-indentation <br>
   * Basic syntax highlighting <br>
   * Customizable interface <br>
