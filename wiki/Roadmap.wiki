@@ -10,7 +10,7 @@ Incomplete:
   * Ask if documents should be saved on quit <br>
   * Auto-indentation <br>
 Complete:
+  * Basic syntax highlighting - Complete <br>
   * Customizable interface - Complete <br>
   * Open / Save / Save As / New / Quit shortcuts - Complete <br>
   * Basic functionality - Complete <br>
-  * Basic syntax highlighting - Complete <br>
