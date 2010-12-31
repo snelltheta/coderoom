@@ -2,14 +2,15 @@
 
 = Roadmap =
 
-Features:
-  * Basic syntax highlighting - Complete <br>
+Incomplete:
   * Syntax highlighting files for different languages <br>
   * Find + Replace <br>
   * Non-fullscreen options <br>
   * New configuration file system (instead og Qt css) <br>
   * Ask if documents should be saved on quit <br>
   * Auto-indentation <br>
+Complete:
   * Customizable interface - Complete <br>
   * Open / Save / Save As / New / Quit shortcuts - Complete <br>
   * Basic functionality - Complete <br>
+  * Basic syntax highlighting - Complete <br>
