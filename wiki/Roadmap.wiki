@@ -3,13 +3,14 @@
 = Roadmap =
 
 Incomplete:
-  * More complete error-testing
-  * Custom icon
+  * More complete error-testing <br>
+  * Custom icon <br>
   * Syntax highlighting files for different languages <br>
   * Find + Replace <br>
   * Non-fullscreen options <br>
-  * New configuration file system (instead og Qt css) <br>
 Complete:
+  * Latex and partial c++ highlighting <br>
+  * Configuration file system <br>
   * Ask if documents should be saved on quit <br>
   * Auto-indentation <br>
   * Basic syntax highlighting <br>
