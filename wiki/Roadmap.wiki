@@ -1,19 +1,31 @@
 #summary CodeRoom roadmap
 
+= Roadmap - future/wishlist =
+
+Incomplete:
+  * Graphical configuration manager
+  * Code folding
+  * Line numbering (optional)
+  * Autocompletion
+
+= Roadmap - version 0.2 =
+
+Incomplete:
+  * More complete error-testing
+  * Syntax highlighting files for more languages
+  * Non-fullscreen options
+
 = Roadmap - version 0.1.5 =
 
 Incomplete:
-  * More complete error-testing <br>
-  * Syntax highlighting files for more languages <br>
-  * Find + Replace <br>
-  * Non-fullscreen options <br>
+  * Find + Replace
 Complete:
-  * Custom icon <br>
-  * Latex and partial c++ highlighting <br>
-  * Configuration file system <br>
-  * Ask if documents should be saved on quit <br>
-  * Auto-indentation <br>
-  * Basic syntax highlighting <br>
-  * Customizable interface <br>
-  * Open / Save / Save As / New / Quit shortcuts<br>
-  * Basic functionality<br>
+  * Custom icon 
+  * Latex and partial c++ highlighting 
+  * Configuration file system 
+  * Ask if documents should be saved on quit 
+  * Auto-indentation 
+  * Basic syntax highlighting 
+  * Customizable interface 
+  * Open / Save / Save As / New / Quit shortcuts
+  * Basic functionality
