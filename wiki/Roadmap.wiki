@@ -1,14 +1,14 @@
 #summary CodeRoom roadmap
 
-= Roadmap =
+= Roadmap - version 0.1.5 =
 
 Incomplete:
   * More complete error-testing <br>
-  * Custom icon <br>
-  * Syntax highlighting files for different languages <br>
+  * Syntax highlighting files for more languages <br>
   * Find + Replace <br>
   * Non-fullscreen options <br>
 Complete:
+  * Custom icon <br>
   * Latex and partial c++ highlighting <br>
   * Configuration file system <br>
   * Ask if documents should be saved on quit <br>
