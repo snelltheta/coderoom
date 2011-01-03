@@ -14,12 +14,12 @@ Incomplete:
   * More complete error-testing
   * Syntax highlighting files for more languages
   * Non-fullscreen options
-  * Escape for quit (as well as CTRL+Q)
 
 = Roadmap - version 0.1.5 =
 
 Incomplete:
   * Find + Replace
+  * Escape for quit (as well as CTRL+Q)
 Complete:
   * Custom icon 
   * Latex and partial c++ highlighting 
