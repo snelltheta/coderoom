@@ -2,6 +2,6 @@
 
 = Feedback =
 
-I would love to hear any feedback (good as well as bad). See [http://code.google.com/p/coderoom/wiki/Wishlist Wishlists]for feature requests
+I would love to hear any feedback (good as well as bad). See [http://code.google.com/p/coderoom/wiki/Wishlist Wishlists] for feature requests
 
 Thanks
