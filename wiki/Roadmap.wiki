@@ -16,6 +16,7 @@ Incomplete:
   * Syntax highlighting files for more languages
   * Non-fullscreen options
   * Indent multiple lines with tab 
+  * Open multiple documents, CTRL + Arrows to scroll
 
 = Roadmap - version 0.1.5 =
 
