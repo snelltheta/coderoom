@@ -16,7 +16,9 @@ Incomplete:
   * Syntax highlighting files for more languages
   * Non-fullscreen options
   * Indent multiple lines with tab 
-  * Open multiple documents, CTRL + Arrows to scroll
+  * Open multiple documents, CTRL + Arrows to change doc
+  * Run shell command, F2 to run
+  * Custom text input, pressing F5 - F12
 
 = Roadmap - version 0.1.5 =
 
