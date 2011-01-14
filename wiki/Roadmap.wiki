@@ -25,9 +25,9 @@ Complete:
 
 Incomplete:
   * Find + Replace
-  * Escape for quit (as well as CTRL+Q)
   * F1 for help (open readme.txt)
 Complete:
+  * Escape for quit (as well as CTRL+Q)
   * Custom icon 
   * Latex and partial c++ highlighting 
   * Configuration file system 
