@@ -21,6 +21,8 @@ Incomplete:
   * Indent multiple lines with tab 
   * Open multiple documents, CTRL + Arrows to change doc
   * Run shell command, F2 to run
+  * Auto-save
+  * Configurable buffer/blank space at end of document (default: 30%)
   
 Complete:
   * Custom text input, pressing F5 - F12
