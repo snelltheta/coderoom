@@ -30,8 +30,8 @@ Complete:
 
 Incomplete:
   * Find + Replace
-  * F1 for help (open readme.txt)
 Complete:
+  * F1 for help (open readme.txt)
   * Improved open dialogs
   * Escape for quit (as well as CTRL+Q)
   * Custom icon 
