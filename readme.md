@@ -1,5 +1,16 @@
 CodeRoom v0.1.6 Development
+================
+A simple cross-platform syntax-highlighting text editor with a distraction-free, fullscreen interface.
 
+###Installation
+To install, use the following commands in your terminal under the root directory:
+
+qmake CodeRoom.pro
+make
+
+Done! Launch by typing ./CodeRoom
+
+###Using
 Keyboard commands:
 Ctrl + S:          Save
 Ctrl + W:          Save As
