@@ -5,10 +5,10 @@ A simple cross-platform syntax-highlighting text editor with a distraction-free,
 ###Installation
 To install, use the following commands in your terminal under the root directory:
 
-`qmake CodeRoom.pro`
+`qmake CodeRoom.pro`  
 `make`
 
-Done! Launch by typing `./CodeRoom`
+Done! Launch by typing `./CodeRoom` in the same folder.
 
 ###Using
 * Keyboard commands:
