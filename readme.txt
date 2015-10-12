@@ -1,4 +1,4 @@
-CodeRoom v0.1.5 Development
+CodeRoom v0.1.6 Development
 
 Keyboard commands:
 Ctrl + S:          Save
@@ -7,7 +7,7 @@ Ctrl + O:          Open
 Ctrl + N:          New Document
 Ctrl + Q:          Quit
 Escape:            Quit
-Ctrl + H:          Choose Syntax Highlighting
+Ctrl + H:          Choose syntax highlighting by selecting .syn file.
 Ctrl + Return:     Create new line after the current (same as End + Return)
 
 QuickInsert keys:
