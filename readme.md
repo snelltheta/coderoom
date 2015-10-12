@@ -39,13 +39,11 @@ First symbol:      Defined separator, sep
 `\\s`              Plain text \s  
 
 ###Syntax highlighting:
+Use `\s` as space character.
+Do not use `\n` in linespans, use `restofline` instead.
+Freewords cannot contain symbols.
 
-
-Use \s as space character  
-Do not use \n in linespans, use restofline instead  
-Freewords cannot contain symbols  
-
-* Priority:
+* Priority:  
 multibehindregexp > multiregexp > multilinespan > singlebehindregexp > singleregexp > restofline > singlelinespan > freewords > inlinewords  
 
 The lower a span appear in the document, the higher the priority. The above still apply though.  
