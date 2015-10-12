@@ -5,10 +5,10 @@ A simple cross-platform syntax-highlighting text editor with a distraction-free,
 ###Installation
 To install, use the following commands in your terminal under the root directory:
 
-qmake CodeRoom.pro
-make
+`qmake CodeRoom.pro`
+`make`
 
-Done! Launch by typing ./CodeRoom
+Done! Launch by typing `./CodeRoom`
 
 ###Using
 * Keyboard commands:
@@ -43,8 +43,7 @@ Use `\s` as space character.
 Do not use `\n` in linespans, use `restofline` instead.
 Freewords cannot contain symbols.
 
-* Priority:  
-multibehindregexp > multiregexp > multilinespan > singlebehindregexp > singleregexp > restofline > singlelinespan > freewords > inlinewords  
+Priority: multibehindregexp > multiregexp > multilinespan > singlebehindregexp > singleregexp > restofline > singlelinespan > freewords > inlinewords  
 
 The lower a span appear in the document, the higher the priority. The above still apply though.  
 
