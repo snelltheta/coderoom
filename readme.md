@@ -38,10 +38,8 @@ sepsepsepsep:      Will be replaced by the current word, when command is pressed
 \\t:               Plain text \t
 \\s:               Plain text \s
 
-***************************************************************************
-Syntax highlighting:
-***************************************************************************
 
+###Syntax highlighting:
 Use \s as space character
 Do not use \n in linespans, use restofline instead
 Freewords cannot contain symbols
